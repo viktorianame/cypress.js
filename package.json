@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^12.7.0",
+    "json-loader": "^0.5.7"
+  }
+}
